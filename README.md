@@ -61,6 +61,7 @@ $ pip install -U pip
 
 # miscellaneous
 $ pip install tqdm
+$ pip install numpy, scipy, matplotlib, seaborn, pandas
 
 # jupyter lab
 $ pip install jupyter
